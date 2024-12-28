@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+}
+#container>div{
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    
+    background-color: rgb(255, 59, 157);
+}
+#container>div a{
+    font-size: 18px;
+    font-weight: bold;
+    margin-left: 230px;
+    color: whitesmoke;
+    color: whitesmoke;
+    text-decoration: none;
+}
+h1{
+    font-size: 25px;
+    margin-left: 20px;
+    font-weight: bold; 
+    color: rgb(12, 80, 12);
+    font-family:cursive;
+}
